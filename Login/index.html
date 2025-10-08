@@ -5,11 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>LOGIN</title>
     <link rel="stylesheet" href="style.css" />
-    <script
-      src="https://code.jquery.com/jquery-3.7.1.js"
-      integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
-      crossorigin="anonymous"
-    ></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.js"
+     integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="crossorigin="anonymous"></script>
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
@@ -27,17 +24,17 @@
         <div class="wrap-input-label">
           <label for="senha">Senha</label>
           <input type="password" id="senha" placeholder="Insira a senha">
-          <div anclick="showPassword()">
+          <div onclick="showPassword()">
             <img width="25px" src="./Images/view.png" alt="Eye" class="eye" id="eye">
           </div>
         </div>
 
-        <button class="btn-login" anclick="login()">Login</button>
+        <button class="btn-login" onclick="login()">Login</button>
     </div>
 
     <div class="error-div" id="error-modal">
       <h3>Credenciais incorretas!</h3>
-      <button anclick="fecharErro()">❌</button>
+      <button onclick="fecharErro()">❌</button>
     </div>
     <script src="script.js"></script>
   </body>
