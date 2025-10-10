@@ -21,3 +21,7 @@ body{
     height: auto;
     padding: 5%;
 }
+
+.center{
+    gap:30px;
+}
