@@ -3,60 +3,60 @@
         "id":1,
         "desc":"Guitarra Gibson Les Paul",
         "imagem":"../Dados/Images/gibson.png",
-        "preco": 30.000
+        "preco": 30000.00
     },
     {
         "id":2,
         "desc":"Guitarra Fender Stratocaster",
         "imagem":"../Dados/Images/fender.webp",
-        "preco": 5.000
+        "preco": 5000.00
     },
     {
         "id":3,
         "desc":"Guitarra Mustang",
         "imagem":"../Dados/Images/mustang.webp",
-        "preco": 6.000
+        "preco": 6000.00
     },
     {
         "id":4,
         "desc":"Violão Eletroacústico",
         "imagem":"../Dados/Images/violaoe.webp",
-        "preco": 500
+        "preco": 500.00
     },
     {
         "id":5,
         "desc":"Guitarra Jackson",
         "imagem":"../Dados/Images/jackson.webp",
-        "preco": 30.000
+        "preco": 30000.00
     },
     {
         "id":6,
         "desc":"Guitarra Snakebyte",
         "imagem":"../Dados/Images/snakebyte.jpg",
-        "preco": 25.000
+        "preco": 25000.00
     },
     {
         "id":7,
         "desc":"Contra-baixo",
         "imagem":"../Dados/Images/baixo.webp",
-        "preco": 3.000
+        "preco": 3000.00
     },
     {
         "id":8,
         "desc":"Bateria",
         "imagem":"../Dados/Images/bateria.webp",
-        "preco": 10.000
+        "preco": 10000.00
     },
     {
         "id":9,
         "desc":"Bateria Eletrônica",
         "imagem":"../Dados/Images/bateriae.webp",
-        "preco": 10.000
+        "preco": 10000.00
     },
     {
         "id":10,
         "desc":"Microfone",
         "imagem":"../Dados/Images/microfone.webp",
-        "preco": 1.000
+        "preco": 1000.00
     }
 ]
